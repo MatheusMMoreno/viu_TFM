@@ -11,6 +11,8 @@ If there are any questions about how to convert the database to Folder/class/ima
 
 consult Pytorch availability for CUDA and make sure to download the proper packages to ensure better performance.   Details are in this [Pytorch](https://pytorch.org/get-started/locally/) page. The code on check_cuda can check if you have enabled the GPU.
 
+Trained models are in this one drive folder [Trained Models](https://1drv.ms/f/s!Ap41Q28xA5OT0W6iXNrVr_VKYKP0?e=g2gzmL)
+
 
 ## Reference
 
