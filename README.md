@@ -3,7 +3,7 @@ This is a repository to store information related to VIU Artificial Intelligence
 
 ## Training & Validation Dataset:
 
-Training Dataset used in this report was extracted from [Github Repository](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_)  &  [Github Repository](https://github.com/timesler/facenet-pytorch/tree/master)
+Training Dataset and models used in this report was extracted from [Github Repository](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_)  &  [Github Repository](https://github.com/timesler/facenet-pytorch/tree/master)
 
 The Dataset used was [Casia-Webface](https://drive.google.com/file/d/1KxNCrXzln0lal3N4JiYl9cFOIhT78y1l/view) [1]
 
